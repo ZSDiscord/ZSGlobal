@@ -23,6 +23,10 @@ Nutzer unter dem Alter von 13 Jahren, sind nicht berechtigt, die Applikation zu 
 Dies ist gemäß der [Discord ToS](https://discord.com/terms).
 
 ## Kontakt
-Mit folgenden mitteln könnt ihr uns jederzeit kontaktieren:
-Discord: Juox#0001 (Entwickler), ZS#4037 (Inhaber/Manager)
-E-Mail: julienvh@protonmail.com
+Mit folgenden mitteln könnt ihr uns jederzeit kontaktieren:<br>
+**Discord:**<br>
+Juox#0001 (Entwickler)<br>
+ZS#4037 (Inhaber/Manager)<br>
+
+**E-Mail:**<br>
+julienvh@protonmail.com
