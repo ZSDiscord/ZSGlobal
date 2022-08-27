@@ -1,7 +1,7 @@
 # Privacy Policy / Datenschutzerklärung
 Diese Privacy-Policy (Datenschutzerklärung) gibt Auskunft über die Speicherung von Daten des ZSGlobal's, ein Deutscher Discord-Bot, der eine Discord-Serverübergreifende Kommunikation ermöglicht.
 Die Applikation ist begrenzt als Discord-Bot auf Daten,
-die Discord bereitstellt. Bei nutzung des Bots stimmt man automatisch den folgenden Richtlinien zu.
+die Discord bereitstellt. Bei nutzung des Bots stimmt man automatisch dem Folgendem zu.
 
 ## Zugriff auf Daten
 Nur der Entwickler hat Zugriff auf die gesammelten Daten, sowie werden diese nur für Entwicklungs-, Wartungs- oder Implementationszwecke genutzt.
