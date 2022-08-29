@@ -8,7 +8,7 @@ Nur der Entwickler hat Zugriff auf die gesammelten Daten, sowie werden diese nur
 Die Daten werden **keinen** Drittanbietern zur verfügung gestellt, außer es ist Rechtlicherweise oder aufgrund von Discords Richtlinien benötigt.
 
 ## Speicherung der Daten
-Es werden Discord-IDs von Nachrichten, Benutzern, Servern und Kanälen abgespeichert. Diese werden zur Funktionalität des Bots genutzt.
+Es werden Discord-IDs von Nachrichten, Benutzern, Servern und Kanälen abgespeichert, sowie für Optimierungen temporär abgespeicherte Daten (z. B. URLs von Profilbildern). Diese werden zur Funktionalität des Bots genutzt.
 Die Daten werden auf einem Server gespeichert, der vor fremdzugriffen geschützt ist.
 
 Im Falle eines Datenlecks übernehmen die Inhaber des Bots keine Haftung.
