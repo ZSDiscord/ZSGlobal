@@ -4,7 +4,7 @@ Die Applikation ist begrenzt als Discord-Bot auf Daten,
 die Discord bereitstellt. Bei nutzung des Bots stimmt man automatisch dem Folgendem zu.
 
 ## Zugriff auf Daten
-Nur der Entwickler hat Zugriff auf die gesammelten Daten, sowie werden diese nur für Entwicklungs-, Wartungs- oder Implementationszwecke genutzt.
+Nur der Entwickler hat Zugriff auf die gesammelten Daten, sowie werden diese nur für Entwicklungs-, Wartungs-, Funtkions- oder Implementationszwecke genutzt.
 Die Daten werden **keinen** Drittanbietern zur verfügung gestellt, außer es ist Rechtlicherweise oder aufgrund von Discords Richtlinien benötigt.
 
 ## Speicherung der Daten
