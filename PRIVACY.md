@@ -25,7 +25,7 @@ Dies ist gemäß der [Discord ToS](https://discord.com/terms).
 ## Kontakt
 Mit folgenden mitteln könnt ihr uns jederzeit kontaktieren:<br>
 **Discord:**<br>
-Juox#0001 (Entwickler)<br>
+Juox#5427 (Entwickler)<br>
 ZS#4037 (Inhaber/Manager)<br>
 
 **E-Mail:**<br>
